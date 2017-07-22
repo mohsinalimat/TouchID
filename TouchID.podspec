@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "TouchID"
-  s.version      = "1.0.0"
+  s.version      = "1.1.0"
   s.summary      = "An iOS TouchID library."
   s.description  = "TouchID is an iOS TouchID library."
   s.homepage     = "https://github.com/Meniny/TouchID"
