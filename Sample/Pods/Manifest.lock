@@ -1,0 +1,16 @@
+PODS:
+  - TouchID (1.0.0)
+
+DEPENDENCIES:
+  - TouchID (from `../`)
+
+EXTERNAL SOURCES:
+  TouchID:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TouchID: b8e00b55cfecbfab3ad82ed360ef4c32fa7a8b41
+
+PODFILE CHECKSUM: 22eda2cb322d3d27d68afb00c3fbc0c8717887cf
+
+COCOAPODS: 1.2.1

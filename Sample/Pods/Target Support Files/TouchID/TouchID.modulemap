@@ -1,0 +1,6 @@
+framework module TouchID {
+  umbrella header "TouchID-umbrella.h"
+
+  export *
+  module * { export * }
+}
